@@ -1,0 +1,744 @@
+═══════════════════════════════════════════════════════════════════════════════
+                        WIRE PAYMENT INSTRUCTIONS
+                           CORPORATE BANKING DIVISION
+═══════════════════════════════════════════════════════════════════════════════
+
+Document Reference: WPI-2025-001
+Issue Date: November 23, 2025
+Version: 2.0
+Classification: Confidential - Internal Use Only
+
+═══════════════════════════════════════════════════════════════════════════════
+                                  PAGE 1 OF 5
+                          INTRODUCTION & OVERVIEW
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 1: INTRODUCTION
+
+Welcome to our comprehensive Wire Payment Instructions guide. This document
+provides detailed information on how to initiate, process, and receive wire
+transfers for both domestic and international transactions.
+
+1.1 PURPOSE OF THIS DOCUMENT
+This guide serves as the official reference for all wire payment procedures
+within our organization. It is designed to ensure:
+   • Accuracy in payment processing
+   • Compliance with banking regulations
+   • Security of financial transactions
+   • Efficiency in fund transfers
+   • Proper documentation and audit trails
+
+1.2 SCOPE
+This document covers:
+   • Domestic wire transfers (within the United States)
+   • International wire transfers (cross-border payments)
+   • Same-day and next-day processing options
+   • Security protocols and authentication procedures
+   • Troubleshooting common issues
+   • Regulatory compliance requirements
+
+1.3 IMPORTANT NOTICES
+
+⚠ SECURITY ALERT: Always verify wire payment instructions through multiple
+channels before processing. Be aware of Business Email Compromise (BEC) scams.
+
+⚠ TIMING: Wire transfers are typically irreversible once processed. Ensure
+all information is accurate before submission.
+
+⚠ FEES: Wire transfer fees apply to both domestic and international
+transactions. Please refer to the current fee schedule.
+
+1.4 KEY DEFINITIONS
+
+Wire Transfer: Electronic transfer of funds from one bank or credit union
+to another, typically processed through SWIFT or Fedwire networks.
+
+SWIFT Code: Society for Worldwide Interbank Financial Telecommunication code,
+used for international wire transfers (also known as BIC - Bank Identifier Code).
+
+ABA Routing Number: Nine-digit code used to identify U.S. financial
+institutions for domestic wire transfers.
+
+IBAN: International Bank Account Number, used in many countries for
+international transfers.
+
+Beneficiary: The recipient of the wire transfer funds.
+
+Originator: The person or entity initiating the wire transfer.
+
+1.5 CONTACT INFORMATION
+
+Wire Transfer Department
+Phone: 1-800-555-WIRE (9473)
+Email: wiretransfers@corporatebank.com
+Hours: Monday-Friday, 8:00 AM - 6:00 PM EST
+Emergency After-Hours: 1-800-555-EMER (3637)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                                  PAGE 2 OF 5
+                     DOMESTIC WIRE TRANSFER INSTRUCTIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 2: DOMESTIC WIRE TRANSFERS
+
+2.1 REQUIRED INFORMATION FOR DOMESTIC WIRES
+
+To process a domestic wire transfer within the United States, you must
+provide the following information:
+
+BENEFICIARY INFORMATION:
+   • Full Legal Name (as it appears on the bank account)
+   • Complete Bank Account Number
+   • Bank's ABA Routing Number (9 digits)
+   • Bank Name
+   • Bank Address (Street, City, State, ZIP Code)
+   • Account Type (Checking or Savings)
+
+ORIGINATOR INFORMATION:
+   • Your Full Name or Company Name
+   • Your Account Number
+   • Your Contact Phone Number
+   • Purpose of Payment (brief description)
+   • Payment Amount (in USD)
+
+2.2 STEP-BY-STEP PROCESS FOR INITIATING DOMESTIC WIRES
+
+STEP 1: VERIFICATION
+   a) Log into your secure banking portal
+   b) Navigate to "Wire Transfers" section
+   c) Select "Domestic Wire Transfer"
+   d) Verify your account has sufficient funds plus fees
+
+STEP 2: ENTER BENEFICIARY DETAILS
+   a) Input beneficiary bank's ABA routing number
+   b) System will auto-populate bank name (verify accuracy)
+   c) Enter beneficiary account number
+   d) Enter beneficiary name exactly as shown on account
+   e) Add bank address information
+
+STEP 3: ENTER PAYMENT DETAILS
+   a) Enter transfer amount in USD
+   b) Provide payment purpose/description
+   c) Select processing speed (same-day or next-day)
+   d) Review current wire transfer fees
+
+STEP 4: REVIEW AND AUTHORIZE
+   a) Carefully review all information entered
+   b) Verify amount and beneficiary details
+   c) Authorize with secure authentication method
+   d) Save confirmation number for records
+
+2.3 SAMPLE DOMESTIC WIRE INSTRUCTIONS
+
+Example Template:
+
+───────────────────────────────────────────────────────────────────────────
+DOMESTIC WIRE TRANSFER TEMPLATE
+
+Beneficiary Bank:          First National Bank
+ABA Routing Number:        021000021
+Bank Address:              123 Banking Street
+                          New York, NY 10001
+
+Beneficiary Name:          ABC Corporation
+Beneficiary Account:       1234567890
+Account Type:              Checking
+
+Transfer Amount:           $50,000.00 USD
+Purpose:                   Invoice Payment - INV-2025-1234
+
+Originator:                XYZ Company LLC
+Originator Account:        9876543210
+Contact Number:            (555) 123-4567
+───────────────────────────────────────────────────────────────────────────
+
+2.4 PROCESSING TIMES AND CUTOFF TIMES
+
+SAME-DAY WIRE TRANSFERS:
+   • Cutoff Time: 3:00 PM EST
+   • Processing: Within 2-4 hours
+   • Fee: $35.00
+
+NEXT-DAY WIRE TRANSFERS:
+   • Cutoff Time: 6:00 PM EST
+   • Processing: Next business day by 12:00 PM
+   • Fee: $25.00
+
+Note: Wire transfers submitted after cutoff times will be processed the
+following business day.
+
+2.5 FEES FOR DOMESTIC WIRES
+
+Outgoing Domestic Wire:              $25.00 - $35.00
+Incoming Domestic Wire:              $15.00
+Wire Transfer Amendment:             $20.00
+Wire Transfer Cancellation:          $30.00 (if not yet processed)
+Trace Request:                       $25.00
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                                  PAGE 3 OF 5
+                   INTERNATIONAL WIRE TRANSFER INSTRUCTIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 3: INTERNATIONAL WIRE TRANSFERS
+
+3.1 REQUIRED INFORMATION FOR INTERNATIONAL WIRES
+
+International wire transfers require additional information compared to
+domestic transfers:
+
+BENEFICIARY BANK INFORMATION:
+   • Full Bank Name
+   • Bank's SWIFT/BIC Code (8 or 11 characters)
+   • Bank's Full Address (Street, City, Country)
+   • IBAN (if applicable for European/Middle Eastern banks)
+   • Bank Branch Name (if applicable)
+
+INTERMEDIARY BANK (if required):
+   • Intermediary Bank Name
+   • Intermediary Bank SWIFT Code
+   • Intermediary Bank Address
+
+BENEFICIARY INFORMATION:
+   • Full Legal Name (exactly as appears on account)
+   • Complete Account Number or IBAN
+   • Full Address (Street, City, Postal Code, Country)
+   • Phone Number (with country code)
+   • Purpose of Payment (detailed description)
+
+ADDITIONAL REQUIRED INFORMATION:
+   • Currency of payment
+   • Payment amount
+   • Fee payment method (OUR/BEN/SHA)
+   • Regulatory information (if required by country)
+
+3.2 UNDERSTANDING SWIFT CODES
+
+SWIFT Code Format: AAAABBCCDDD
+
+Where:
+   AAAA = Bank Code (4 letters)
+   BB = Country Code (2 letters)
+   CC = Location Code (2 letters or digits)
+   DDD = Branch Code (3 letters or digits, optional)
+
+Example: CHASUS33XXX
+   CHAS = JPMorgan Chase Bank
+   US = United States
+   33 = New York
+   XXX = Head Office
+
+3.3 UNDERSTANDING FEE PAYMENT OPTIONS
+
+When sending international wires, you must specify who pays the fees:
+
+OUR (All charges paid by sender):
+   • Sender pays all fees (originating, intermediary, and receiving)
+   • Beneficiary receives full payment amount
+   • Most expensive option but ensures full payment to recipient
+   • Recommended for: Critical payments, contractual obligations
+
+BEN (All charges paid by beneficiary):
+   • Sender pays only outgoing wire fee
+   • All other fees deducted from payment amount
+   • Beneficiary receives amount minus intermediary/receiving fees
+   • Least expensive for sender
+   • Recommended for: Internal transfers, when pre-agreed with beneficiary
+
+SHA (Shared charges - Default option):
+   • Sender pays outgoing wire fee
+   • Beneficiary pays incoming wire fee
+   • Intermediary fees (if any) deducted from payment amount
+   • Most common option for international transfers
+   • Recommended for: Standard business transactions
+
+3.4 STEP-BY-STEP PROCESS FOR INTERNATIONAL WIRES
+
+STEP 1: GATHER ALL REQUIRED INFORMATION
+   • Collect complete beneficiary and bank details
+   • Verify SWIFT code using online SWIFT directory
+   • Confirm IBAN format for European transfers
+   • Determine if intermediary bank is needed
+
+STEP 2: CURRENCY AND AMOUNT
+   • Select payment currency (USD, EUR, GBP, JPY, etc.)
+   • Enter payment amount
+   • Review current exchange rate (if applicable)
+   • Calculate total cost including fees
+
+STEP 3: COMPLETE WIRE TRANSFER FORM
+   • Access international wire transfer section
+   • Enter all beneficiary information
+   • Input beneficiary bank details
+   • Add intermediary bank (if required)
+   • Specify fee payment method (OUR/BEN/SHA)
+
+STEP 4: PURPOSE OF PAYMENT
+   • Provide detailed payment purpose
+   • Include invoice numbers or reference numbers
+   • Ensure compliance with destination country regulations
+   • Some countries require specific purpose codes
+
+STEP 5: REVIEW AND SUBMIT
+   • Verify all information carefully
+   • Check SWIFT code and account number
+   • Confirm currency and amount
+   • Authorize transaction with multi-factor authentication
+   • Save confirmation number and receipt
+
+3.5 SAMPLE INTERNATIONAL WIRE INSTRUCTIONS
+
+Example Template:
+
+───────────────────────────────────────────────────────────────────────────
+INTERNATIONAL WIRE TRANSFER TEMPLATE
+
+Beneficiary Bank:          Deutsche Bank AG
+SWIFT Code:                DEUTDEFFXXX
+Bank Address:              Taunusanlage 12
+                          60325 Frankfurt am Main
+                          Germany
+
+Beneficiary Name:          Global Trading GmbH
+Beneficiary Account/IBAN:  DE89 3704 0044 0532 0130 00
+Beneficiary Address:       Hauptstrasse 45
+                          60311 Frankfurt, Germany
+Beneficiary Phone:         +49 69 1234 5678
+
+Transfer Amount:           50,000.00 EUR
+Payment Currency:          EUR (Euro)
+Fee Option:                SHA (Shared)
+Purpose:                   Payment for goods - Invoice INV-EU-2025-456
+
+Originator:                XYZ Company LLC
+Originator Account:        9876543210
+Contact:                   (555) 123-4567
+───────────────────────────────────────────────────────────────────────────
+
+3.6 PROCESSING TIMES FOR INTERNATIONAL WIRES
+
+Standard Processing:       2-5 business days
+Expedited Processing:      1-2 business days (additional fee)
+Same-Day (select banks):   Available for major currencies
+
+Factors affecting processing time:
+   • Destination country banking hours
+   • Intermediary bank processing
+   • Currency conversion requirements
+   • Regulatory review and compliance checks
+   • Holidays in destination country
+
+3.7 FEES FOR INTERNATIONAL WIRES
+
+Outgoing International Wire (USD):     $45.00 - $65.00
+Outgoing International Wire (FX):      $50.00 - $75.00
+Incoming International Wire:           $20.00
+Foreign Exchange Markup:               0.5% - 2.5% of amount
+Intermediary Bank Fees:                $10.00 - $30.00 (if applicable)
+Correspondent Bank Fees:               Varies by bank
+Amendment Fee:                         $50.00
+Cancellation Fee:                      $65.00 (if not yet processed)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                                  PAGE 4 OF 5
+                    SECURITY & COMPLIANCE REQUIREMENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 4: SECURITY PROTOCOLS AND COMPLIANCE
+
+4.1 AUTHENTICATION REQUIREMENTS
+
+All wire transfers require multi-factor authentication:
+
+TIER 1 - Up to $10,000:
+   • Username and password
+   • One-time SMS verification code
+   • Security question
+
+TIER 2 - $10,001 to $100,000:
+   • Username and password
+   • Mobile app authentication token
+   • Email confirmation
+   • Phone verification callback
+
+TIER 3 - Over $100,000:
+   • Username and password
+   • Hardware security token
+   • Email confirmation
+   • Phone verification callback
+   • Dual authorization (two authorized signers)
+
+4.2 FRAUD PREVENTION BEST PRACTICES
+
+VERIFY PAYMENT INSTRUCTIONS:
+   ✓ Always verify wire instructions through a known phone number
+   ✓ Call the beneficiary directly using a number from your records
+   ✓ Never rely solely on email for wire instruction changes
+   ✓ Be suspicious of urgent or unusual payment requests
+
+RECOGNIZE COMMON SCAM INDICATORS:
+   ⚠ Requests to change payment instructions at the last minute
+   ⚠ Pressure to process payment urgently
+   ⚠ Email from a similar but not exact email address
+   ⚠ Requests for payment to unfamiliar countries or banks
+   ⚠ Instructions that differ from standard procedures
+
+SECURE YOUR CREDENTIALS:
+   ✓ Never share your banking password or authentication codes
+   ✓ Use strong, unique passwords for banking access
+   ✓ Enable all available security features
+   ✓ Log out of banking sessions when complete
+   ✓ Monitor your accounts regularly for unauthorized activity
+
+4.3 BUSINESS EMAIL COMPROMISE (BEC) AWARENESS
+
+Business Email Compromise is a sophisticated scam where criminals:
+   • Compromise legitimate business email accounts
+   • Impersonate executives or vendors
+   • Request fraudulent wire transfers
+   • Use urgent language to bypass normal procedures
+
+PROTECTION STRATEGIES:
+   1. Implement dual authorization for all wire transfers
+   2. Establish verbal verification procedures
+   3. Train employees on BEC recognition
+   4. Use encrypted communication for sensitive information
+   5. Maintain an approved vendor/beneficiary list
+   6. Question any changes to established payment procedures
+
+IF YOU SUSPECT FRAUD:
+   ➤ STOP - Do not process the wire transfer
+   ➤ CALL - Contact your bank's fraud department immediately
+   ➤ VERIFY - Independently verify instructions through known contacts
+   ➤ REPORT - File a report with appropriate authorities
+
+Emergency Fraud Hotline: 1-800-555-FRAU (3728)
+Available 24/7/365
+
+4.4 REGULATORY COMPLIANCE
+
+OFFICE OF FOREIGN ASSETS CONTROL (OFAC):
+All wire transfers are screened against OFAC sanctions lists. Transfers
+involving the following are prohibited:
+   • Sanctioned countries (e.g., North Korea, Iran, Syria)
+   • Specially Designated Nationals (SDN) list individuals/entities
+   • Blocked persons or entities
+
+BANK SECRECY ACT (BSA) / ANTI-MONEY LAUNDERING (AML):
+Wire transfers are subject to BSA/AML requirements:
+   • Large cash transaction reporting (over $10,000)
+   • Suspicious activity monitoring and reporting
+   • Customer due diligence procedures
+   • Enhanced due diligence for high-risk transactions
+
+KNOW YOUR CUSTOMER (KYC):
+Banks must verify:
+   • Identity of account holders
+   • Source of funds
+   • Purpose of transactions
+   • Beneficial ownership of entities
+
+USA PATRIOT ACT:
+Requirements include:
+   • Customer identification program compliance
+   • Beneficial ownership verification
+   • Information sharing among financial institutions
+   • Enhanced scrutiny of correspondent accounts
+
+4.5 REQUIRED DOCUMENTATION
+
+For International Wires Over $10,000:
+   □ Purpose of payment documentation
+   □ Invoice or contract (if applicable)
+   □ Source of funds declaration
+   □ Beneficiary relationship documentation
+
+For Business Wires Over $100,000:
+   □ Board resolution or authorization letter
+   □ Dual signature approval
+   □ Supporting business documentation
+   □ Compliance questionnaire
+
+For High-Risk Countries or Transactions:
+   □ Enhanced due diligence documentation
+   □ Proof of legitimate business purpose
+   □ End-use certification
+   □ Regulatory approval (if required)
+
+4.6 RECORD RETENTION REQUIREMENTS
+
+All wire transfer records must be retained for:
+   • Domestic wires: 5 years from date of transaction
+   • International wires: 7 years from date of transaction
+   • Supporting documentation: Same as wire record
+   • Authentication records: Same as wire record
+
+Records include:
+   • Wire transfer confirmations
+   • Authorization documentation
+   • Communication records
+   • Supporting invoices/contracts
+   • Compliance screening results
+
+4.7 PRIVACY AND DATA PROTECTION
+
+All wire transfer information is protected under:
+   • Gramm-Leach-Bliley Act (GLBA)
+   • Payment Card Industry Data Security Standard (PCI DSS)
+   • General Data Protection Regulation (GDPR) for EU transactions
+   • State privacy laws (California CCPA, etc.)
+
+Your information is:
+   ✓ Encrypted during transmission
+   ✓ Stored on secure servers
+   ✓ Accessible only to authorized personnel
+   ✓ Never shared with unauthorized third parties
+   ✓ Protected by industry-leading security measures
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                                  PAGE 5 OF 5
+                TROUBLESHOOTING, SUPPORT & ADDITIONAL RESOURCES
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 5: TROUBLESHOOTING AND SUPPORT
+
+5.1 COMMON ISSUES AND SOLUTIONS
+
+ISSUE: Wire transfer is delayed
+POSSIBLE CAUSES:
+   • Incorrect beneficiary information
+   • Missing or incomplete required fields
+   • Compliance review in progress
+   • Intermediary bank delays
+   • Beneficiary bank holiday or weekend
+   • Currency conversion processing
+
+SOLUTIONS:
+   ✓ Check wire status in online banking portal
+   ✓ Verify all information is correct
+   ✓ Contact wire transfer department for status update
+   ✓ Request trace if delayed more than 5 business days
+
+ISSUE: Wire transfer returned
+POSSIBLE CAUSES:
+   • Incorrect account number
+   • Invalid SWIFT code or routing number
+   • Account closed or frozen
+   • Beneficiary name mismatch
+   • Regulatory rejection
+
+SOLUTIONS:
+   ✓ Review returned wire notification
+   ✓ Verify beneficiary account details
+   ✓ Contact beneficiary to confirm information
+   ✓ Resubmit with corrected information
+   ✓ Expect refund within 5-10 business days
+
+ISSUE: Beneficiary didn't receive full amount
+POSSIBLE CAUSES:
+   • Intermediary bank fees deducted
+   • Receiving bank fees applied
+   • Currency conversion charges
+   • Fee option was BEN or SHA instead of OUR
+
+SOLUTIONS:
+   ✓ Review fee payment option selected
+   ✓ Request detailed fee breakdown
+   ✓ Send additional payment to cover fees
+   ✓ Use OUR option for future critical payments
+
+ISSUE: Need to cancel wire transfer
+PROCESS:
+   1. Contact wire department immediately
+   2. Provide wire confirmation number
+   3. Explain reason for cancellation
+   4. Cancellation only possible if not yet processed
+   5. Cancellation fee applies ($30-$65)
+   6. Refund processed within 3-5 business days
+
+ISSUE: Need to amend wire transfer
+PROCESS:
+   1. Contact wire department immediately
+   2. Provide wire confirmation number and account details
+   3. Specify information to be amended
+   4. Amendment only possible if not yet received by beneficiary bank
+   5. Amendment fee applies ($20-$50)
+   6. May require wire recall and resubmission
+
+5.2 WIRE TRACING PROCEDURES
+
+When to Request a Wire Trace:
+   • Wire not received within expected timeframe
+   • Confirmation of delivery needed
+   • Dispute resolution
+   • Proof of payment required
+
+How to Request a Trace:
+   1. Gather wire confirmation number
+   2. Contact wire transfer department
+   3. Complete trace request form
+   4. Pay trace fee ($25)
+   5. Allow 5-10 business days for results
+
+Trace Results Include:
+   • Path of wire through banking system
+   • Date and time of delivery
+   • Receiving bank confirmation
+   • Account credited information
+   • Any fees deducted along the way
+
+5.3 CONTACT INFORMATION AND SUPPORT HOURS
+
+WIRE TRANSFER DEPARTMENT:
+Phone: 1-800-555-WIRE (9473)
+Email: wiretransfers@corporatebank.com
+Fax: 1-800-555-WFAX (9329)
+Hours: Monday-Friday, 8:00 AM - 6:00 PM EST
+
+FRAUD AND SECURITY:
+Hotline: 1-800-555-FRAU (3728)
+Available: 24/7/365
+
+INTERNATIONAL WIRE SPECIALISTS:
+Phone: 1-800-555-INTL (4685)
+Hours: Monday-Friday, 7:00 AM - 8:00 PM EST
+
+COMPLIANCE DEPARTMENT:
+Phone: 1-800-555-CMPL (2675)
+Email: compliance@corporatebank.com
+Hours: Monday-Friday, 9:00 AM - 5:00 PM EST
+
+TECHNICAL SUPPORT (Online Banking):
+Phone: 1-800-555-TECH (8324)
+Available: 24/7/365
+
+5.4 HELPFUL RESOURCES AND TOOLS
+
+ONLINE RESOURCES:
+   • SWIFT Code Directory: www.swift.com/bic-directory
+   • ABA Routing Number Lookup: www.routingnumber.aba.com
+   • IBAN Validator: www.iban.com/validation
+   • Currency Converter: www.xe.com
+   • International Holiday Calendar: www.timeanddate.com
+
+MOBILE APP FEATURES:
+   • Wire transfer initiation
+   • Real-time transaction status
+   • Saved beneficiary templates
+   • Wire history and receipts
+   • Push notifications for confirmations
+   • Biometric authentication
+
+ONLINE BANKING PORTAL:
+   • Initiate domestic and international wires
+   • Manage beneficiary list
+   • View transaction history
+   • Download confirmations and receipts
+   • Set up recurring wires
+   • Approve pending wires (dual authorization)
+
+5.5 FORMS AND TEMPLATES
+
+Available forms at: www.corporatebank.com/wire-forms
+   □ Domestic Wire Transfer Request Form
+   □ International Wire Transfer Request Form
+   □ Wire Transfer Authorization Form
+   □ Dual Authorization Request Form
+   □ Wire Trace Request Form
+   □ Wire Cancellation Request Form
+   □ Wire Amendment Request Form
+   □ Recurring Wire Setup Form
+   □ Beneficiary Addition/Change Form
+   □ Wire Transfer Dispute Form
+
+5.6 TRAINING AND EDUCATION
+
+AVAILABLE TRAINING:
+   • Wire Transfer Basics (Online course - 30 minutes)
+   • International Wire Transfer Advanced (Webinar - 1 hour)
+   • Fraud Prevention Workshop (In-person - 2 hours)
+   • Compliance Requirements Overview (Online - 45 minutes)
+   • System Navigation Tutorial (Video series)
+
+To schedule training:
+Email: training@corporatebank.com
+Phone: 1-800-555-TRNG (8764)
+
+5.7 FREQUENTLY ASKED QUESTIONS (FAQ)
+
+Q: How long does a domestic wire take?
+A: Domestic wires are typically completed within 2-4 hours if submitted
+before cutoff time, or next business day if after cutoff.
+
+Q: Can I cancel a wire transfer?
+A: Yes, but only if it hasn't been processed yet. Contact us immediately
+with your confirmation number. Cancellation fees apply.
+
+Q: What's the difference between ACH and wire transfer?
+A: Wire transfers are faster (same day to 1-2 days) but more expensive.
+ACH transfers take 1-3 business days but have lower fees.
+
+Q: Do I need SWIFT code for domestic wires?
+A: No, domestic wires within the US only require ABA routing number.
+
+Q: What if I made a mistake in beneficiary information?
+A: Contact us immediately. If not yet processed, we can amend. If already
+sent, we'll need to request a recall, which may not be successful.
+
+Q: Are wire transfers safe?
+A: Yes, when proper procedures are followed. Always verify instructions
+through multiple channels and be aware of fraud attempts.
+
+Q: How much can I wire transfer?
+A: Limits vary by account type and authorization level. Contact your
+relationship manager for your specific limits.
+
+5.8 GLOSSARY OF TERMS
+
+ABA Routing Number: Nine-digit code identifying US financial institutions
+Beneficiary: The recipient of a wire transfer
+IBAN: International Bank Account Number
+Intermediary Bank: Bank that facilitates transfer between sender and receiver
+SWIFT: Network for secure financial messaging between banks
+Originator: Person or entity sending the wire transfer
+OUR/BEN/SHA: Fee payment options for international wires
+Fedwire: Real-time gross settlement system operated by Federal Reserve
+CHIPS: Clearing House Interbank Payments System
+Settlement: Final completion of a wire transfer
+Trace: Investigation to track a wire transfer through the banking system
+
+═══════════════════════════════════════════════════════════════════════════════
+
+DOCUMENT CONTROL
+
+Document ID:              WPI-2025-001
+Version:                  2.0
+Issue Date:               November 23, 2025
+Next Review Date:         May 23, 2026
+Document Owner:           Treasury Operations Department
+Approved By:              Chief Financial Officer
+
+REVISION HISTORY:
+Version 1.0 - January 15, 2024  - Initial release
+Version 1.5 - July 20, 2024     - Added BEC awareness section
+Version 2.0 - November 23, 2025 - Comprehensive update, added compliance
+
+═══════════════════════════════════════════════════════════════════════════════
+
+DISCLAIMER
+
+This document is for informational purposes only. Wire transfer procedures,
+fees, and requirements are subject to change. Always verify current
+information with your bank representative. The bank is not responsible for
+errors in wire transfers due to incorrect information provided by the
+originator. All wire transfers are subject to bank policies, regulations,
+and applicable laws.
+
+═══════════════════════════════════════════════════════════════════════════════
+                          END OF DOCUMENT - PAGE 5 OF 5
+═══════════════════════════════════════════════════════════════════════════════
+
